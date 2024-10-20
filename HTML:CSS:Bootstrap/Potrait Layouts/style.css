@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container-all {
+    text-align: center;
+}
+
+.image-all {
+    height: 220px;
+    margin-top: 10px;
+}
+
+.heading-all {
+    font-size: 25px;
+    color: #183b56;
+    font-family: "Bree Serif";
+}
+
+.para-all {
+    font-size: 13px;
+    color: #616e7c;
+    font-family: "Bree Serif";
+}
+
+.card-image-all {
+    height: 80px;
+    margin: 5px;
+}
+
+.bg-container-tech {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.card-item-tech {
+    background-color: white;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding: 15px;
+}
+
+.heading-tech {
+    font-family: "Bree Serif";
+    font-size: 25px;
+    color: #5752ab;
+}
+
+.para-tech {
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+.button1-tech {
+    color: #171f46;
+    background-color: white;
+    border-width: 1px;
+    border-color: #d7dfe9;
+    border-style: solid;
+    height: 38px;
+    width: 110px;
+    border-radius: 10px;
+    margin-right: 5px;
+}
+
+.bg-top-section-diw {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png');
+    background-size: cover;
+    height: 30vh;
+}
+
+.heading-diw {
+    color: white;
+    font-family: "Caveat";
+    width: 210px;
+    padding: 20px;
+    font-size: 35px;
+}
+
+.bottom-section-diw {
+    background-color: #e6f6ff;
+    padding: 10px;
+    text-align: center;
+}
+
+.card-item-diw {
+    background-color: white;
+    width: 270px;
+    height: 150px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px;
+    margin: 15px;
+}
+
+.card-img-diw {
+    width: 64px;
+    height: 64px;
+}
+
+.card-heading-diw {
+    font-size: 15px;
+    font-family: "Roboto";
+    color: #616e7c;
+    padding: 5px;
+}
+
+.card-price-diw {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #323f4b;
+}
+
+.bg-container-food {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.main-h-food {
+    color: #323f4b;
+    font-family: "Bree Serif";
+}
+
+.para-food {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.button-food {
+    background-color: #ffffff;
+    height: 36px;
+    width: 138px;
+    border-width: 0px;
+    border-radius: 10px;
+}
+
+.card-food {
+    background-color: #f6c56e;
+    padding: 20px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.bg-container-news {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.card-container-news {
+    background-color: white;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding: 10px;
+}
+
+.para-news {
+    font-family: "Roboto";
+    color: #7b8794;
+    font-size: 12px;
+}
+
+.heading-news {
+    font-size: 20px;
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.description-news {
+    font-size: 13px;
+    font-family: "Roboto";
+    color: #7b8794;
+}
+
+.button-news {
+    color: white;
+    background-color: #323f4b;
+    border-width: 0px;
+    height: 36px;
+    width: 120px;
+    border-radius: 10px;
+}

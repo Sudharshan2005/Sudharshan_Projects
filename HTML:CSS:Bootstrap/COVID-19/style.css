@@ -1,0 +1,138 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-color: white;
+    background-size: cover;
+    height: 105vh;
+    border-style: solid;
+    border-color: #0967d219;
+    border-width: 4px;
+}
+
+.top-section {
+    padding: 8px;
+    background-color: white;
+}
+
+.top-heading {
+    font-size: 18px;
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.top-image {
+    height: 84px;
+    width: 100px;
+}
+
+.top-button {
+    background-color: #0967d2;
+    color: white;
+    border-width: 0px;
+    border-radius: 5px;
+    height: 34px;
+    width: 100px;
+}
+
+.covid-section {
+    background-color: #0967d219;
+    padding: 7px;
+    margin: 6px;
+    border-radius: 10px;
+    height: 95px;
+}
+
+.covid-heading {
+    font-size: 16px;
+    font-family: "Roboto";
+    color: #323f4b;
+    font-weight: 500;
+}
+
+.covid-image {
+    height: 54px;
+    width: 54px;
+    padding: 5px;
+}
+
+.covid-para {
+    font-size: 12px;
+    font-family: "Roboto";
+    color: #707070;
+}
+
+.covid-text {
+    padding: 5px;
+}
+
+.bottom-heading {
+    font-size: 17px;
+    padding: 8px;
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: 500;
+    height: 25px;
+}
+
+.symptoms {
+    padding: 8px;
+}
+
+.symptom-container-1 {
+    background-color: #3ebd93;
+    text-align: center;
+    padding: 8px;
+    border-radius: 10px;
+    height: 95px;
+    margin-right: 8px;
+}
+
+.symptom-container-2 {
+    background-color: #e668a7;
+    text-align: center;
+    padding: 8px;
+    border-radius: 10px;
+    height: 95px;
+    margin-right: 8px;
+}
+
+.symptom-container-3 {
+    background-color: #a368fc;
+    text-align: center;
+    padding: 8px;
+    border-radius: 10px;
+    height: 95px;
+}
+
+.symp-para {
+    color: white;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.video-container {
+    background-color: #e12d3919;
+    margin: 6px;
+    border-radius: 10px;
+    padding: 7px;
+}
+
+.doc-image {
+    height: 54px;
+    width: 54px;
+}
+
+.video-heading {
+    font-size: 16px;
+    font-family: "Roboto";
+    color: #323f4b;
+    font-weight: 500;
+}
+
+.video-para {
+    font-size: 12px;
+    font-family: "Roboto";
+    color: #707070;
+}

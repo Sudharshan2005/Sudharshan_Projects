@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url('https://assets.ccbp.in/frontend/dynamic-webapps/time-converter-bg.png');
+    background-size: cover;
+    height: 100vh;
+    font-family: "Open Sans";
+}
+
+.heading {
+    color: #ffffff;
+    font-size: 64px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.para {
+    color: #f5f7fa;
+    font-size: 24px;
+    padding-left: 20px;
+}
+
+.para-box {
+    color: #f5f7fa;
+}
+
+.input-box {
+    border-radius: 10px;
+    width: 360px;
+    height: 35px;
+}
+
+.button {
+    height: 40px;
+    width: 180px;
+    background-color: #f5f7fa;
+    border-width: 0px;
+    border-radius: 5px;
+}
+
+.seconds-box {
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    border-radius: 10px;
+    width: 150px;
+    height: 60px;
+    text-align: center;
+    color: #f5f7fa;
+    font-size: 24px;
+}

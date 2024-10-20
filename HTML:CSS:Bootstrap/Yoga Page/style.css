@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container-home-yoga {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/yoga-bg.png');
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+
+.main-heading-yoga {
+    color: #132d84;
+    font-size: 25px;
+    padding: 24px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.image-yoga {
+    height: 250px;
+    margin-top: 25px;
+}
+
+.para-yoga {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.button-yoga {
+    background-color: #132d84;
+    color: #fad693;
+    border-width: 0px;
+    height: 35px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+.bg-container-details-yoga {
+    background-color: #ffedcb;
+    height: 170vh;
+    text-align: center;
+}
+
+.details-top-yoga {
+    text-align: center;
+}
+
+.image-details-yoga {
+    height: 170px;
+    margin-top: 15px;
+}
+
+.details-heading-yoga {
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #132d84;
+    padding: 15px;
+}
+
+.card-yoga {
+    background-color: #ffe2ab;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+.card-image-yoga {
+    height: 100px;
+}
+
+.card-text-cont-yoga {
+    margin-left: 10px;
+    text-align: left;
+}
+
+.card-heading-yoga {
+    color: #253263;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.card-para-yoga {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.button-back-yoga {
+    background-color: #132d84;
+    color: #fad693;
+    border-width: 0px;
+    height: 30px;
+    width: 60px;
+    border-radius: 5px;
+}

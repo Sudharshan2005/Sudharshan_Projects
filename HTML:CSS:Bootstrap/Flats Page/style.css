@@ -1,0 +1,159 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container-flat {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-bg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.home-card-flat {
+    background-color: #ffffff;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.main-heading-flat {
+    color: #f19116;
+    font-size: 30px;
+    font-family: "Bree Serif";
+}
+
+.main-para-flat {
+    color: #7b8794;
+    font-size: 20px;
+    font-family: "Bree Serif";
+}
+
+.book-flat-button {
+    background-color: #f19116;
+    border-width: 0px;
+    color: white;
+    height: 30px;
+    width: 90px;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+.card-text-cont-flat {
+    margin: 20px;
+}
+
+.bg-container-all-flats {
+    background-color: #222222;
+    height: 120vh;
+}
+
+.heading-flats {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 25px;
+    padding: 10px;
+}
+
+.card-flat {
+    background-color: white;
+    margin: 10px;
+    height: 160px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.card-extra {
+    height: 180px;
+}
+
+.image-extra {
+    height: 180px;
+    width: 100px;
+}
+
+.card-image-flat {
+    height: 160px;
+    width: 100px;
+}
+
+.card-heading-flat {
+    font-size: 25px;
+    font-family: "Bree Serif";
+    color: #0f0e46;
+}
+
+.card-para-flat {
+    font-size: 13px;
+    font-family: "Bree Serif";
+    color: #6c6b70;
+}
+
+.card-text-flat {
+    margin-left: 10px;
+}
+
+.button-flats {
+    background-color: #f19116;
+    color: white;
+    border-width: 0px;
+    height: 30px;
+    width: 70px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.bg-cont-3bhk {
+    background-color: #222222;
+    height: 100vh;
+}
+
+.image-flat {
+    height: 199px;
+}
+
+.flat-price {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 25px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.location {
+    height: 30px;
+    margin-left: 10px;
+}
+
+.address-flat {
+    color: white;
+    font-family: "Bree Serif";
+    margin: 2px;
+}
+
+.horizontal-line {
+    background-color: #ffffff;
+    width: 100%;
+}
+
+.flat-description {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 25px;
+    margin-left: 10px;
+    text-align: left;
+}
+
+.para-flat {
+    color: #7b8794;
+    font-family: "Bree Serif";
+    margin-left: 10px;
+    font-size: 15px;
+    text-align: left;
+}
+
+.button-confirm {
+    height: 30px;
+    width: 90px;
+}
+
+.bottom-section-flat {
+    text-align: center;
+}

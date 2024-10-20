@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png');
+    background-size: cover;
+    height: 35vh;
+}
+
+.heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 30px;
+    padding: 15px;
+}
+
+.image {
+    height: 90px;
+    width: 120px;
+}
+
+.name {
+    font-size: 16px;
+    color: #151765;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-top: 4px;
+}
+
+.para {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.card1 {
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.card2 {
+    margin-top: 15px;
+}
+
+.bg-puri {
+    background-color: #151765;
+    background-size: cover;
+    height: 30vh;
+    padding: 20px;
+}
+
+.card-image {
+    height: 110px;
+}
+
+.text-cont {
+    color: white;
+    font-family: "Roboto";
+    margin-top: 5px;
+    margin-left: 7px;
+}
+
+.card-para {
+    font-size: 10px;
+}
+
+.card-heading {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.sec-image {
+    height: 100px;
+}
+
+.sec-head {
+    color: #151765;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.sec-para {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.bottom-section {
+    margin: 8px;
+}
+
+.sec-time {
+    color: #151765;
+    font-size: 10px;
+    font-family: "Roboto";
+}
+
+.head2 {
+    font-size: 20px;
+}
+
+.button {
+    background-color: #151765;
+    color: white;
+    border-width: 0px;
+    height: 30px;
+    width: 80px;
+    border-radius: 15px;
+}
+
+.section-details {
+    text-align: right;
+    padding: 10px;
+}
+
+.sec-row {
+    text-align: left;
+}
